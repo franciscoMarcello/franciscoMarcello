@@ -2,8 +2,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-marcello/)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscoMarcello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoMarcello&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscoMarcello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoMarcello&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 </div>
 
 ## Tecnologias que estudo 📚
@@ -39,3 +39,9 @@
   <img align="center" alt="SAP Business One" src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/franciscoMarcello/franciscoMarcello/output/github-contribution-grid-snake.svg" />
+</p>
